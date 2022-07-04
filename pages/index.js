@@ -1,6 +1,12 @@
+import Head from "next/head";
+
 export default function Home() {
   return (
     <>
+    <Head>
+      <title>0xhanvalen</title>
+      <meta name="description">A web3 developer who lives fast and dies hard</meta>
+    </Head>
       <div
         style={{
           display: `flex`,
