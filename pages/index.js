@@ -57,7 +57,7 @@ export default function Home() {
                 here.
               </a>
               <br />
-              I'm currently working on a whitelabelling solution for their dApp
+              I&apos;m currently working on a whitelabelling solution for their dApp
               platform to allow their customers to upload arbitrary tokenset
               instances and allow those customers followers to interact with the
               tokensets in an improved UI.
