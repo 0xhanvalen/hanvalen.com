@@ -21,7 +21,7 @@ export default function Home() {
           <h2>Contact</h2>
           <p>
             Ask for me at{" "}
-            <a href="https://www.raidguild.org/hire" target="_blank">
+            <a href="https://www.raidguild.org/hire" target="_blank" rel="noreferrer">
               Raidguild
             </a>
           </p>
@@ -35,13 +35,13 @@ export default function Home() {
               A PFP project that had 2 allowlists and custom, dynamic allowlist
               reservation. Freemint that did over 600eth in secondary volume.
               Explore the front end{" "}
-              <a href="www.basedghouls.com" target="_blank">
+              <a href="www.basedghouls.com" target="_blank" rel="noreferrer">
                 here
               </a>{" "}
               &amp; Opensea{" "}
               <a
                 href="https://opensea.io/collection/based-ghouls"
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 here.
               </a>
@@ -53,7 +53,7 @@ export default function Home() {
             <p>
               A defi roboadvisor. I added a marketing/blogging site to their
               stack to help them be more discoverable, viewable{" "}
-              <a href="https://www.swdao.org" target="_blank">
+              <a href="https://www.swdao.org" target="_blank" rel="noreferrer">
                 here.
               </a>
               <br />
@@ -68,7 +68,7 @@ export default function Home() {
             <h4>Front End</h4>
             <p>
               Trashdao is a proof-of-concept implementation of a{" "}
-              <a href="https://www.szns.io" target="_blank">
+              <a href="https://www.szns.io" target="_blank" rel="noreferrer">
                 szns.io
               </a>{" "}
               dao community page to help promote szns.io. You can view trashdao{" "}
@@ -83,13 +83,13 @@ export default function Home() {
               project at the 11th hour to help them finish their contract and
               deploy their minting site. Multiple allowlists, dynamic sale
               prices, pre-reveal and post-reveal dynamics.{" "}
-              <a href="https://mint.skaterbirds.io/" target="_blank">
+              <a href="https://mint.skaterbirds.io/" target="_blank" rel="noreferrer">
                 Site here
               </a>{" "}
               &amp;{" "}
               <a
                 href="https://opensea.io/collection/skater-birds-skatepark"
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 Opensea here.
               </a>
